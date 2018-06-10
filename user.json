@@ -1,0 +1,20 @@
+{
+  "user": [
+    {
+      "uname": "megha",
+      "uemail": "me#gh.com",
+      "upass": "",
+      "ucpass": "",
+      "umob": "",
+      "id": 1
+    },
+    {
+      "uname": "megha",
+      "uemail": "me#gh.com",
+      "upass": "abc123",
+      "ucpass": "abc123",
+      "umob": "9865786545",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "category": [
+    { "cat_id": 1, "cat_name": "Mens Wear" },
+    { "cat_id": 2, "cat_name": "Womens Wear" },
+    { "cat_id": 3, "cat_name": "Kids Wear" }    
+  ]
+}

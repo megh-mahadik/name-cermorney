@@ -1,0 +1,7 @@
+{
+  "brand": [
+    { "br_id": 1, "br_name": "Adidas" },
+    { "br_id": 2, "br_name": "Killer Jeans" },
+    { "br_id": 3, "br_name": "Puma" }    
+  ]
+}

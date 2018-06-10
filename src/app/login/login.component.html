@@ -1,0 +1,23 @@
+<form (ngSubmit)="addData(userRecord.value)" #userRecord="ngForm">
+    <div class="form-group">
+    <label for="name">Name</label>
+    <input type="name" name="uname" class="form-control" id="name" ngModel>
+  </div>
+  <div class="form-group">
+    <label for="email">Email</label>
+    <input type="email" name="uemail" class="form-control" id="email" ngModel>
+  </div>
+  <div class="form-group">
+    <label for="pwd">Password</label>
+    <input type="password" name="upass" class="form-control" id="pwd" ngModel>
+  </div>
+    <div class="form-group">
+    <label for="cpwd">Confirm Password</label>
+    <input type="password" name="ucpass" class="form-control" id="cpwd" ngModel>
+  </div>
+     <div class="form-group">
+    <label for="cpwd">Mobile</label>
+    <input type="text" name="umob" class="form-control" id="umob" ngModel>
+  </div>
+  <button type="submit" class="btn btn-default">Submit</button>
+</form>

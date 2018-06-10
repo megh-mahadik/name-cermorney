@@ -1,0 +1,8 @@
+{
+  "product": [
+    { "pro_id": 1, "pro_name": "Mens Formal" , "proca_id":1 ,"pro_price":2000 , "pro_discount":20 , "pro_brid":1},
+    { "pro_id": 2, "pro_name": "Mens Office Wear" ,  "proca_id":1 ,"pro_price":2500 , "pro_discount":40 , "pro_brid":2},
+    { "pro_id": 3, "pro_name": "Womens Casual Wear  ", "proca_id":2 ,"pro_price":3000 , "pro_discount":50 , "pro_brid":3 },
+    { "pro_id": 4, "pro_name": "Kids Party Wear ", "proca_id":3 ,"pro_price":2550 , "pro_discount":50 , "pro_brid":2 }  
+  ]
+}
